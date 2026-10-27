@@ -1,1 +1,1 @@
-Vídeos de Blockset. Descarga el paquete en Releases.
+Kit para creadores.
